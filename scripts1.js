@@ -142,6 +142,15 @@ const questions = [
      { text: 'An increase in greenhouse gases', correct: true }
    ]
 },
+{
+   question: 'What percent is the Universe converted i  peatlands?',
+   answers: [
+     { text: '0%', correct: false },
+     { text: '3%', correct: true },
+     { text: '5%', correct: false },
+     { text: '25%', correct: false }
+   ]
+},
   {
     question: 'Which are possible solutions for climate change?',
     answers: [
@@ -150,5 +159,43 @@ const questions = [
       { text: 'Creating carbon emission caps', correct: false },
       { text: 'All of the above', correct: true }
     ]
-  }
+},
+{
+  question: 'What do we need most to live?',
+  answers: [
+    { text: 'Water', correct: false },
+    { text: 'Oxygen', correct: false },
+    { text: 'Food', correct: false },
+    { text: 'All of the above', correct: true }
+  ]
+},
+{
+  question: 'Is water sustainability important?',
+  answers: [
+    { text: 'Yes', correct: true },
+    { text: 'No', correct: false }
+  ]
+},
+{
+  question: 'Does our biodiversity include our natural habitats?',
+  answers: [
+    { text: 'Yes', correct: true },
+    { text: 'No', correct: false }
+  ]
+},
+{
+  question: 'Should I take long showers and leave the sink running rather than saving Earth water?',
+  answers: [
+    { text: 'Yes', correct: false },
+    { text: 'No', correct: true }
+  ]
+},
+{
+  question: 'Can water sustainability save our Earth from climate change?',
+  answers: [
+    { text: 'Yes', correct: true },
+    { text: 'No', correct: false }
+  ]
+},
+
 ]
